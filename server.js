@@ -50,7 +50,7 @@ const startServer = async () => {
                 // Untuk production, tambah domain Anda di sini
                 if (process.env.NODE_ENV === 'production') {
                     const productionDomains = [
-                        'https://your-frontend-domain.vercel.app',
+                        'frontend-absensi-git-main-fahri-m14s-projects.vercel.app',
                         'https://your-app.herokuapp.com'
                         // Tambahkan domain production Anda di sini
                     ];
